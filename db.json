@@ -1,16 +1,249 @@
 {
-  "posts":[
+  "carriers": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": "abb2c4a15bb14bf78b11f27093e5435f",
+      "name": "DHL Germany",
+      "countryIso": "DE",
+      "phases": [
+        {
+          "uuid": "f2b968887c5d4335beec809df8c33358",
+          "name": "Warehouse",
+          "duration": 4
+        },
+        {
+          "uuid": "6cd08b679e5e45b48d6ee53523c200ce",
+          "name": "Transport",
+          "duration": 5
+        },
+        {
+          "uuid": "27d6a59a9f3345d0a1697e51245a4427",
+          "name": "Last Mile",
+          "duration": 3
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "id": "bd8657ab5e524198a4d668b9871d2764",
+      "name": "DHL Swiss",
+      "countryIso": "CH",
+      "phases": [
+        {
+          "uuid": "bbf2c3b6f567424f8fa20acdc755710a",
+          "name": "Warehouse",
+          "duration": 3
+        },
+        {
+          "uuid": "e0cff6a5133b4e4c84b95eba2d9824ff",
+          "name": "Transport",
+          "duration": 5
+        },
+        {
+          "uuid": "cc59aacd984b497cad9d35d1d654ec04",
+          "name": "Last Mile",
+          "duration": 4
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "id": "a55fcea519384fb188b5bcf4993c485c",
+      "name": "UHS Logistics",
+      "countryIso": "AT",
+      "phases": [
+        {
+          "uuid": "425127eea5c1402e84c77cb0d238782e",
+          "name": "Warehouse",
+          "duration": 4
+        },
+        {
+          "uuid": "3b55d02c6c3f4296a2e943802e2156fc",
+          "name": "Transport",
+          "duration": 5
+        },
+        {
+          "uuid": "c03f20823b474b46b776df8c801dc117",
+          "name": "Last Mile",
+          "duration": 3
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "id": "39f18187c37942cf9193842a64a24e0a",
+      "name": "Gateway Logistics",
+      "countryIso": "IT",
+      "phases": [
+        {
+          "uuid": "83d1d60517454dee8fdbde4d5fbc552b",
+          "name": "Warehouse",
+          "duration": 2
+        },
+        {
+          "uuid": "d8474afebd96465b93462f561c0eabbc",
+          "name": "Transport",
+          "duration": 5
+        },
+        {
+          "uuid": "1ffb63de79094267b7a9f3b385c051d2",
+          "name": "Last Mile",
+          "duration": 6
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "id": "e990d0f9a1514b53ba73d6cb7b1fbf1f",
+      "name": "Mondial Relay",
+      "countryIso": "FR",
+      "phases": [
+        {
+          "uuid": "674661eea69d47cda074b172b0bb90ca",
+          "name": "Warehouse",
+          "duration": 4
+        },
+        {
+          "uuid": "750311a7f92e42ef8dcc5b914eb2e51b",
+          "name": "Transport",
+          "duration": 5
+        },
+        {
+          "uuid": "1d50fd7aa79f4398aa0fb326e6abfa15",
+          "name": "Last Mile",
+          "duration": 6
+        }
+      ],
+      "status": "inactive"
+    },
+    {
+      "id": "6785d26454d04fa390d40d2a345bb633",
+      "name": "Geodis Freight",
+      "countryIso": "ES",
+      "phases": [
+        {
+          "uuid": "4bf84ca432474b93951b84875edf7244",
+          "name": "Warehouse",
+          "duration": 6
+        },
+        {
+          "uuid": "015a7e775da448e9a8b0405319bcb6b9",
+          "name": "Transport",
+          "duration": 3
+        },
+        {
+          "uuid": "d48304c912f94ab4be3f4eab0a9df316",
+          "name": "Last Mile",
+          "duration": 4
+        }
+      ],
+      "status": "inactive"
+    },
+    {
+      "id": "e28e263306074bd0891ffad2f6795436",
+      "name": "Fedex NL",
+      "countryIso": "NL",
+      "phases": [
+        {
+          "uuid": "864299086619460d9fbc0900b826dea7",
+          "name": "Warehouse",
+          "duration": 4
+        },
+        {
+          "uuid": "23433271d4434056801172ece95c47a3",
+          "name": "Transport",
+          "duration": 2
+        },
+        {
+          "uuid": "9b1d52e5a6d64c528d9ba5db8bc13513",
+          "name": "Last Mile",
+          "duration": 2
+        }
+      ],
+      "status": "active"
     }
   ],
-  "comments" : [
+  "calendars": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "17292b426af5435d9936414df1722bc2",
+      "name": "Ludwigselder",
+      "entries": [
+        {
+          "id": "464151d7e00e4ad1be892171bb8d9630",
+          "name": "Christmas Day",
+          "date": "2020-12-25T00:00:00",
+          "status": "active"
+        },
+        {
+          "id": "1d30c56962ee422eb0371b679a80bfe4",
+          "name": "New Year Day",
+          "date": "2020-01-01T00:00:00",
+          "status": "active"
+        },
+        {
+          "id": "b0da4a415eee46fea51c01116ea372ee",
+          "name": "Labour Day",
+          "date": "2020-06-01T00:00:00",
+          "status": "active"
+        }
+      ],
+      "phases": [
+        "f2b968887c5d4335beec809df8c33358",
+        "6cd08b679e5e45b48d6ee53523c200ce",
+        "27d6a59a9f3345d0a1697e51245a4427"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "4383171a9e3448bb8867b3db2c58e2f1",
+      "name": "Geodis",
+      "entries": [
+        {
+          "id": "2b3977581ece46198a11ecd7c4da4670",
+          "name": "Epiphany",
+          "date": "2020-04-11T00:00:00",
+          "status": "active"
+        },
+        {
+          "id": "0f347527e2eb4d92bd26989c340601f6",
+          "name": "Good Friday",
+          "date": "2020-03-29T00:00:00",
+          "status": "inactive"
+        }
+      ],
+      "phases": [
+        "674661eea69d47cda074b172b0bb90ca",
+        "1d50fd7aa79f4398aa0fb326e6abfa15"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "d229c58f4712435a9db6238ab736a61b",
+      "name": "Deniolary",
+      "entries": [
+        {
+          "id": "9e33d2d0b53e415299cff7247fb27e1c",
+          "name": "Christmas Day",
+          "date": "2020-12-25T00:00:00",
+          "status": "active"
+        },
+        {
+          "id": "f3bb4abbf7f7483e82f08883334a6219",
+          "name": "Oktoberfest Day",
+          "date": "2020-10-01T00:00:00",
+          "status": "inactive"
+        },
+        {
+          "id": "c74e0ea8ada3411186ef1f247e86b644",
+          "name": "No Work Day",
+          "date": "2020-07-01T00:00:00",
+          "status": "active"
+        }
+      ],
+      "phases": [
+        "425127eea5c1402e84c77cb0d238782e",
+        "c03f20823b474b46b776df8c801dc117"
+      ],
+      "status": "inactive"
     }
   ]
 }
