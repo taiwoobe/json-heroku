@@ -168,19 +168,16 @@
       "name": "Ludwigselder",
       "entries": [
         {
-          "id": "464151d7e00e4ad1be892171bb8d9630",
           "name": "Christmas Day",
           "date": "2020-12-25T00:00:00",
           "status": "active"
         },
         {
-          "id": "1d30c56962ee422eb0371b679a80bfe4",
           "name": "New Year Day",
           "date": "2020-01-01T00:00:00",
           "status": "active"
         },
         {
-          "id": "b0da4a415eee46fea51c01116ea372ee",
           "name": "Labour Day",
           "date": "2020-06-01T00:00:00",
           "status": "active"
@@ -198,13 +195,11 @@
       "name": "Geodis",
       "entries": [
         {
-          "id": "2b3977581ece46198a11ecd7c4da4670",
           "name": "Epiphany",
           "date": "2020-04-11T00:00:00",
           "status": "active"
         },
         {
-          "id": "0f347527e2eb4d92bd26989c340601f6",
           "name": "Good Friday",
           "date": "2020-03-29T00:00:00",
           "status": "inactive"
@@ -221,19 +216,16 @@
       "name": "Deniolary",
       "entries": [
         {
-          "id": "9e33d2d0b53e415299cff7247fb27e1c",
           "name": "Christmas Day",
           "date": "2020-12-25T00:00:00",
           "status": "active"
         },
         {
-          "id": "f3bb4abbf7f7483e82f08883334a6219",
           "name": "Oktoberfest Day",
           "date": "2020-10-01T00:00:00",
           "status": "inactive"
         },
         {
-          "id": "c74e0ea8ada3411186ef1f247e86b644",
           "name": "No Work Day",
           "date": "2020-07-01T00:00:00",
           "status": "active"
