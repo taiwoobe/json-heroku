@@ -6,17 +6,17 @@
       "countryIso": "DE",
       "phases": [
         {
-          "uuid": "f2b968887c5d4335beec809df8c33358",
+          "id": "f2b968887c5d4335beec809df8c33358/warehouse",
           "name": "Warehouse",
           "duration": 4
         },
         {
-          "uuid": "6cd08b679e5e45b48d6ee53523c200ce",
+          "id": "6cd08b679e5e45b48d6ee53523c200ce/transport",
           "name": "Transport",
           "duration": 5
         },
         {
-          "uuid": "27d6a59a9f3345d0a1697e51245a4427",
+          "id": "27d6a59a9f3345d0a1697e51245a4427/lastmile",
           "name": "Last Mile",
           "duration": 3
         }
@@ -29,17 +29,17 @@
       "countryIso": "CH",
       "phases": [
         {
-          "uuid": "bbf2c3b6f567424f8fa20acdc755710a",
+          "id": "bbf2c3b6f567424f8fa20acdc755710a/warehouse",
           "name": "Warehouse",
           "duration": 3
         },
         {
-          "uuid": "e0cff6a5133b4e4c84b95eba2d9824ff",
+          "id": "e0cff6a5133b4e4c84b95eba2d9824ff/transport",
           "name": "Transport",
           "duration": 5
         },
         {
-          "uuid": "cc59aacd984b497cad9d35d1d654ec04",
+          "id": "cc59aacd984b497cad9d35d1d654ec04/lastmile",
           "name": "Last Mile",
           "duration": 4
         }
@@ -52,17 +52,17 @@
       "countryIso": "AT",
       "phases": [
         {
-          "uuid": "425127eea5c1402e84c77cb0d238782e",
+          "id": "425127eea5c1402e84c77cb0d238782e/warehouse",
           "name": "Warehouse",
           "duration": 4
         },
         {
-          "uuid": "3b55d02c6c3f4296a2e943802e2156fc",
+          "id": "3b55d02c6c3f4296a2e943802e2156fc/transport",
           "name": "Transport",
           "duration": 5
         },
         {
-          "uuid": "c03f20823b474b46b776df8c801dc117",
+          "id": "c03f20823b474b46b776df8c801dc117/lastmile",
           "name": "Last Mile",
           "duration": 3
         }
@@ -75,17 +75,17 @@
       "countryIso": "IT",
       "phases": [
         {
-          "uuid": "83d1d60517454dee8fdbde4d5fbc552b",
+          "id": "83d1d60517454dee8fdbde4d5fbc552b/warehouse",
           "name": "Warehouse",
           "duration": 2
         },
         {
-          "uuid": "d8474afebd96465b93462f561c0eabbc",
+          "id": "d8474afebd96465b93462f561c0eabbc/transport",
           "name": "Transport",
           "duration": 5
         },
         {
-          "uuid": "1ffb63de79094267b7a9f3b385c051d2",
+          "id": "1ffb63de79094267b7a9f3b385c051d2/lastmile",
           "name": "Last Mile",
           "duration": 6
         }
@@ -98,17 +98,17 @@
       "countryIso": "FR",
       "phases": [
         {
-          "uuid": "674661eea69d47cda074b172b0bb90ca",
+          "id": "674661eea69d47cda074b172b0bb90ca/warehouse",
           "name": "Warehouse",
           "duration": 4
         },
         {
-          "uuid": "750311a7f92e42ef8dcc5b914eb2e51b",
+          "id": "750311a7f92e42ef8dcc5b914eb2e51b/transport",
           "name": "Transport",
           "duration": 5
         },
         {
-          "uuid": "1d50fd7aa79f4398aa0fb326e6abfa15",
+          "id": "1d50fd7aa79f4398aa0fb326e6abfa15/lastmile",
           "name": "Last Mile",
           "duration": 6
         }
@@ -121,17 +121,17 @@
       "countryIso": "ES",
       "phases": [
         {
-          "uuid": "4bf84ca432474b93951b84875edf7244",
+          "id": "4bf84ca432474b93951b84875edf7244/warehouse",
           "name": "Warehouse",
           "duration": 6
         },
         {
-          "uuid": "015a7e775da448e9a8b0405319bcb6b9",
+          "id": "015a7e775da448e9a8b0405319bcb6b9/transport",
           "name": "Transport",
           "duration": 3
         },
         {
-          "uuid": "d48304c912f94ab4be3f4eab0a9df316",
+          "id": "d48304c912f94ab4be3f4eab0a9df316/lastmile",
           "name": "Last Mile",
           "duration": 4
         }
@@ -144,17 +144,17 @@
       "countryIso": "NL",
       "phases": [
         {
-          "uuid": "864299086619460d9fbc0900b826dea7",
+          "id": "864299086619460d9fbc0900b826dea7/warehouse",
           "name": "Warehouse",
           "duration": 4
         },
         {
-          "uuid": "23433271d4434056801172ece95c47a3",
+          "id": "23433271d4434056801172ece95c47a3/transport",
           "name": "Transport",
           "duration": 2
         },
         {
-          "uuid": "9b1d52e5a6d64c528d9ba5db8bc13513",
+          "id": "9b1d52e5a6d64c528d9ba5db8bc13513/lastmile",
           "name": "Last Mile",
           "duration": 2
         }
