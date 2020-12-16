@@ -184,9 +184,9 @@
         }
       ],
       "phases": [
-        "f2b968887c5d4335beec809df8c33358",
-        "6cd08b679e5e45b48d6ee53523c200ce",
-        "27d6a59a9f3345d0a1697e51245a4427"
+        "f2b968887c5d4335beec809df8c33358/warehouse",
+        "6cd08b679e5e45b48d6ee53523c200ce/transport",
+        "27d6a59a9f3345d0a1697e51245a4427/lastmile"
       ],
       "status": "active"
     },
@@ -206,8 +206,8 @@
         }
       ],
       "phases": [
-        "674661eea69d47cda074b172b0bb90ca",
-        "1d50fd7aa79f4398aa0fb326e6abfa15"
+        "674661eea69d47cda074b172b0bb90ca/warehouse",
+        "1d50fd7aa79f4398aa0fb326e6abfa15/lastmile"
       ],
       "status": "active"
     },
@@ -232,8 +232,8 @@
         }
       ],
       "phases": [
-        "425127eea5c1402e84c77cb0d238782e",
-        "c03f20823b474b46b776df8c801dc117"
+        "425127eea5c1402e84c77cb0d238782e/warehouse",
+        "c03f20823b474b46b776df8c801dc117/lastmile"
       ],
       "status": "inactive"
     }
