@@ -8,17 +8,20 @@
         {
           "id": "f2b968887c5d4335beec809df8c33358/warehouse",
           "name": "Warehouse",
-          "duration": 4
+          "duration": 4,
+          "workingDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
         },
         {
           "id": "6cd08b679e5e45b48d6ee53523c200ce/transport",
           "name": "Transport",
-          "duration": 5
+          "duration": 5,
+          "workingDays": ["Monday", "Tuesday", "Wednesday", "Thursday"]
         },
         {
           "id": "27d6a59a9f3345d0a1697e51245a4427/lastmile",
           "name": "Last Mile",
-          "duration": 3
+          "duration": 3,
+          "workingDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
         }
       ],
       "status": "active"
@@ -31,17 +34,20 @@
         {
           "id": "bbf2c3b6f567424f8fa20acdc755710a/warehouse",
           "name": "Warehouse",
-          "duration": 3
+          "duration": 3,
+          "workingDays": ["Monday", "Tuesday", "Wednesday"]
         },
         {
           "id": "e0cff6a5133b4e4c84b95eba2d9824ff/transport",
           "name": "Transport",
-          "duration": 5
+          "duration": 5,
+          "workingDays": ["Monday", "Tuesday", "Wednesday"]
         },
         {
           "id": "cc59aacd984b497cad9d35d1d654ec04/lastmile",
           "name": "Last Mile",
-          "duration": 4
+          "duration": 4,
+          "workingDays": ["Monday", "Tuesday", "Wednesday"]
         }
       ],
       "status": "active"
@@ -54,17 +60,20 @@
         {
           "id": "425127eea5c1402e84c77cb0d238782e/warehouse",
           "name": "Warehouse",
-          "duration": 4
+          "duration": 4,
+          "workingDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
         },
         {
           "id": "3b55d02c6c3f4296a2e943802e2156fc/transport",
           "name": "Transport",
-          "duration": 5
+          "duration": 5,
+          "workingDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
         },
         {
           "id": "c03f20823b474b46b776df8c801dc117/lastmile",
           "name": "Last Mile",
-          "duration": 3
+          "duration": 3,
+          "workingDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
         }
       ],
       "status": "active"
@@ -77,17 +86,20 @@
         {
           "id": "83d1d60517454dee8fdbde4d5fbc552b/warehouse",
           "name": "Warehouse",
-          "duration": 2
+          "duration": 2,
+          "workingDays": ["Wednesday", "Thursday", "Friday"]
         },
         {
           "id": "d8474afebd96465b93462f561c0eabbc/transport",
           "name": "Transport",
-          "duration": 5
+          "duration": 5,
+          "workingDays": ["Wednesday", "Thursday", "Friday"]
         },
         {
           "id": "1ffb63de79094267b7a9f3b385c051d2/lastmile",
           "name": "Last Mile",
-          "duration": 6
+          "duration": 6,
+          "workingDays": ["Friday", "Saturday"]
         }
       ],
       "status": "active"
@@ -100,17 +112,20 @@
         {
           "id": "674661eea69d47cda074b172b0bb90ca/warehouse",
           "name": "Warehouse",
-          "duration": 4
+          "duration": 4,
+          "workingDays": ["Tuesday", "Wednesday", "Thursday", "Friday"]
         },
         {
           "id": "750311a7f92e42ef8dcc5b914eb2e51b/transport",
           "name": "Transport",
-          "duration": 5
+          "duration": 5,
+          "workingDays": ["Tuesday", "Wednesday", "Thursday", "Friday"]
         },
         {
           "id": "1d50fd7aa79f4398aa0fb326e6abfa15/lastmile",
           "name": "Last Mile",
-          "duration": 6
+          "duration": 6,
+          "workingDays": ["Tuesday", "Wednesday", "Thursday", "Friday"]
         }
       ],
       "status": "inactive"
@@ -123,17 +138,20 @@
         {
           "id": "4bf84ca432474b93951b84875edf7244/warehouse",
           "name": "Warehouse",
-          "duration": 6
+          "duration": 6,
+          "workingDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
         },
         {
           "id": "015a7e775da448e9a8b0405319bcb6b9/transport",
           "name": "Transport",
-          "duration": 3
+          "duration": 3,
+          "workingDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
         },
         {
           "id": "d48304c912f94ab4be3f4eab0a9df316/lastmile",
           "name": "Last Mile",
-          "duration": 4
+          "duration": 4,
+          "workingDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
         }
       ],
       "status": "inactive"
@@ -146,17 +164,20 @@
         {
           "id": "864299086619460d9fbc0900b826dea7/warehouse",
           "name": "Warehouse",
-          "duration": 4
+          "duration": 4,
+          "workingDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
         },
         {
           "id": "23433271d4434056801172ece95c47a3/transport",
           "name": "Transport",
-          "duration": 2
+          "duration": 2,
+          "workingDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
         },
         {
           "id": "9b1d52e5a6d64c528d9ba5db8bc13513/lastmile",
           "name": "Last Mile",
-          "duration": 2
+          "duration": 2,
+          "workingDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
         }
       ],
       "status": "active"
@@ -236,36 +257,6 @@
         "c03f20823b474b46b776df8c801dc117/lastmile"
       ],
       "status": "inactive"
-    }
-  ],
-  "workingDays": [
-    {
-      "id": "abb2c4a15bb14bf78b11f27093e5435f",
-      "name": "DHL Germany"
-    },
-    {
-      "id": "bd8657ab5e524198a4d668b9871d2764",
-      "name": "DHL Switzerland"
-    },
-    {
-      "id": "a55fcea519384fb188b5bcf4993c485c",
-      "name": "UHS Logistics"
-    },
-    {
-      "id": "39f18187c37942cf9193842a64a24e0a",
-      "name": "Gateway Logistics"
-    },
-    {
-      "id": "e990d0f9a1514b53ba73d6cb7b1fbf1f",
-      "name": "Mondial Relay"
-    },
-    {
-      "id": "6785d26454d04fa390d40d2a345bb633",
-      "name": "Geodis Freight"
-    },
-    {
-      "id": "e28e263306074bd0891ffad2f6795436",
-      "name": "Fedex NL"
     }
   ]
 }
