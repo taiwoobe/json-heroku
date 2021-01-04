@@ -237,5 +237,35 @@
       ],
       "status": "inactive"
     }
+  ],
+  "workingDays": [
+    {
+      "id": "abb2c4a15bb14bf78b11f27093e5435f",
+      "name": "DHL Germany"
+    },
+    {
+      "id": "bd8657ab5e524198a4d668b9871d2764",
+      "name": "DHL Switzerland"
+    },
+    {
+      "id": "a55fcea519384fb188b5bcf4993c485c",
+      "name": "UHS Logistics"
+    },
+    {
+      "id": "39f18187c37942cf9193842a64a24e0a",
+      "name": "Gateway Logistics"
+    },
+    {
+      "id": "e990d0f9a1514b53ba73d6cb7b1fbf1f",
+      "name": "Mondial Relay"
+    },
+    {
+      "id": "6785d26454d04fa390d40d2a345bb633",
+      "name": "Geodis Freight"
+    },
+    {
+      "id": "e28e263306074bd0891ffad2f6795436",
+      "name": "Fedex NL"
+    }
   ]
 }
